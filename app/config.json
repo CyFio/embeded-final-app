@@ -1,0 +1,32 @@
+{
+    "server":{
+        "port": 233
+    },
+    "database":{
+        "path": "data",
+        "name": "db.dat"
+    },
+    "pages":{
+        "main_menu":{
+            "title": "主菜单"
+        },
+        "resistance":{
+            "title": "阻值监测"
+        },
+        "gallery":{
+            "title": "相册"
+        },
+        "rchart":{
+            "title": "历史图线"
+        },
+        "settings":{
+            "title": "设置"
+        },
+        "im_monitor":{
+            "title": "图像监控"
+        },
+        "return":{
+            "title": "return"
+        }
+    }
+}

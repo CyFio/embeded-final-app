@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>awesomes/icons/hj.png</file>
+        <file>awesomes/icons/warn.png</file>
+        <file>awesomes/icons/ok.png</file>
+        <file>awesomes/icons/error.png</file>
+        <file>awesomes/icons/connected.png</file>
+        <file>awesomes/icons/resistance.png</file>
+        <file>awesomes/icons/cam.png</file>
+        <file>awesomes/icons/graph.png</file>
+        <file>awesomes/icons/gallery.png</file>
+        <file>awesomes/icons/door.png</file>
+        <file>awesomes/icons/chart.png</file>
+        <file>awesomes/icons/gear.png</file>
+    </qresource>
+    <qresource prefix="/config">
+        <file>config.json</file>
+    </qresource>
+</RCC>
